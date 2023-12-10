@@ -1,1 +1,2 @@
-LEARNING DATA STRUCTURES, LISTS AND TUPLES
+#PYTHON
+data structures; lists and tuples
